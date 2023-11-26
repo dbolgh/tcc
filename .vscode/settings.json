@@ -1,0 +1,9 @@
+{
+    "azureFunctions.deploySubpath": "func_test",
+    "azureFunctions.scmDoBuildDuringDeployment": true,
+    "azureFunctions.pythonVenv": ".venv",
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~4",
+    "azureFunctions.projectLanguageModel": 2,
+    "azureFunctions.projectSubpath": "func_test\\MyProjFolder"
+}

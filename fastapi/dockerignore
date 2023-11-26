@@ -1,0 +1,5 @@
+.git*
+**/*.pyc
+.venv/
+
+func new --template "Timer Trigger" --name MyTimerTrigger
